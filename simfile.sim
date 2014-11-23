@@ -1,0 +1,13 @@
+SIMFILE
+INPUT C:\Users\Public\Documents\BikeSim321_Data\Runs\Run162_all.par
+ECHO C:\Users\Public\Documents\BikeSim321_Data\Runs\Run162_echo.par
+FINAL C:\Users\Public\Documents\BikeSim321_Data\Runs\Run162_end.par
+LOGFILE C:\Users\Public\Documents\BikeSim321_Data\Runs\Run162_log.txt
+ERDFILE C:\Users\Public\Documents\BikeSim321_Data\Runs\Run162.erd
+ANIFILE C:\Users\Public\Documents\BikeSim321_Data\runs\animator.par
+PROGDIR C:\Program Files (x86)\BikeSim321_Prog\
+RESOURCEDIR C:\Program Files (x86)\BikeSim321_Prog\Resources\
+DATADIR C:\Users\Public\Documents\BikeSim321_Data\
+GUI_REFRESH_V BikeSim_RefreshEvent_476
+DLLFILE C:\Program Files (x86)\BikeSim321_Prog\Programs\Solvers\Default64\variable_caster.dll
+END
